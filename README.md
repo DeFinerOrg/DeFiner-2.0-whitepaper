@@ -1,6 +1,8 @@
 ## [Background:The Decentralized Financial System](https://github.com/DeFinerOrg/Whitepaper/wiki/Background:-The-Decentralized-Financial-System) 
 [1: The Problem with Current DeFi Lending Protocols](https://github.com/DeFinerOrg/DeFiner-2.0-whitepaper/wiki/DeFiner-2.0-Whitepaper#the-problem-with-current-defi-lending-protocols)
-[2: Basics of Second Generation Blockchains and Applications in the Financial Intermediation System](https://github.com/DeFinerOrg/whitepaper/wiki/Background:-The-Decentralized-Financial-System#Basics-of-Second-Generation-Blockchains-and-Applications-in-the-Financial-Intermediation-System)
+
+[2: The Solution DeFiner 2.0: A Permissionless and Configurable Lending Protocol with Privacy 100% Protected
+How does DeFiner 2.0 Works?](https://github.com/DeFinerOrg/DeFiner-2.0-whitepaper/wiki/DeFiner-2.0-Whitepaper#the-solution-definer-20-a-permissionless-and-configurable-lending-protocol-with-privacy-100-protected)
 
 [3: Basics of Crypto Digital Assets](https://github.com/DeFinerOrg/whitepaper/wiki/Background:-The-Decentralized-Financial-System#Basics-of-Crypto-Digital-Assets)
 ## [DeFiner Whitepaper](https://github.com/DeFinerOrg/DeFiner-2.0-whitepaper/wiki/DeFiner-2.0-Whitepaper)
