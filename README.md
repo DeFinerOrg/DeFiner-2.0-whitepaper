@@ -1,6 +1,5 @@
 ## [Background:The Decentralized Financial System](https://github.com/DeFinerOrg/Whitepaper/wiki/Background:-The-Decentralized-Financial-System) 
-[1: The Problem with Current DeFi Lending Protocols](https://github.com/DeFinerOrg/whitepaper/wiki/Background:-The-Decentralized-Financial-System#basics-of-first-generation-blockchains-and-applications-in-the-financial-payment-system)
-
+[1: The Problem with Current DeFi Lending Protocols](https://github.com/DeFinerOrg/DeFiner-2.0-whitepaper/wiki/DeFiner-2.0-Whitepaper#the-problem-with-current-defi-lending-protocols)
 [2: Basics of Second Generation Blockchains and Applications in the Financial Intermediation System](https://github.com/DeFinerOrg/whitepaper/wiki/Background:-The-Decentralized-Financial-System#Basics-of-Second-Generation-Blockchains-and-Applications-in-the-Financial-Intermediation-System)
 
 [3: Basics of Crypto Digital Assets](https://github.com/DeFinerOrg/whitepaper/wiki/Background:-The-Decentralized-Financial-System#Basics-of-Crypto-Digital-Assets)
